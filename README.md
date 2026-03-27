@@ -32,4 +32,4 @@ infrastructure.
 Secure Network Design
 
 ## Steps
-<a href = "https://github.com/ch1n4x4/Security-Monitoring-System-AWS/blob/main/Cloud_security_monitoring.pdf">Cloud Security monitoring</a>
+<a href = "https://github.com/ch1n4x4/Ntwork-simulation/blob/main/Network_configuration_Simulation.pdf">Network Simulation</a>
